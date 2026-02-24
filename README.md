@@ -17,20 +17,19 @@ This project addresses a two-part tabular regression challenge with distinct obj
 
 ## 🗂️ Repository Structure
 
-```
+ML_37/
 ├── Part1.py                      # Main pipeline for target01 prediction
 ├── Part2.py                      # Rule discovery and validation for target02
 ├── parameter_experiment.py       # Hyperparameter tuning experiments
-├── framework_37.py              # Deployment-ready rule engine for target02
-├── requirements.txt             # Python dependencies
-├── EVAL_target01_37.csv        # Final predictions for target01
-├── Report_ML_W26.pdf           # Complete technical report
-├── pra_mal_w25.pdf             # Project assignment specification
-└── problem_37/                 # Dataset directory (not included)
-    ├── dataset_37.csv          # Training features
-    ├── target_37.csv           # Training targets
-    └── EVAL_37.csv             # Evaluation features
-```
+├── framework_37.py               # Deployment-ready rule engine for target02
+├── requirements.txt              # Python dependencies
+├── EVAL_target01_37.csv          # Final predictions for target01
+├── Report_ML_W26.pdf             # Complete technical report
+├── pra_mal_w25.pdf               # Project assignment specification
+└── problem_37/                   # Dataset directory (not included)
+    ├── dataset_37.csv            # Training features
+    ├── target_37.csv             # Training targets
+    └── EVAL_37.csv               # Evaluation features
 
 ---
 
