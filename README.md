@@ -221,11 +221,4 @@ Complete technical report available in `Report_ML_W26.pdf`.
 * **Edge Deployment:** Zero ML dependencies at runtime
 * **Reproducibility:** Fixed random seeds across pipeline
 
-```
 
----
-
-If you want, I can also **draft a plan for file-by-file commits** so that later, when you update **comments in each file**, each file can have its **own descriptive commit message**, keeping your Git history clean.  
-
-Do you want me to do that next?
-```
