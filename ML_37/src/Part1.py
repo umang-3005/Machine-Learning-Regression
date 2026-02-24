@@ -82,7 +82,7 @@ print(f"Any NaNs in X_eval? {X_eval.isna().any().any()}")
 print(f"Any NaNs in y?        {np.isnan(y).any()}")
 print(f"Duplicate rows in X:   {X.duplicated().sum()}")
 print(f"Constant columns in X: {(X.nunique(dropna=False) <= 1).sum()}")
-print("\n✅ Sanity checks passed.")
+print("\n Sanity checks passed.")
 
 # TARGET VARIABLE STATISTICS AND HISTOGRAM
 print("\n" + "=" * 80)
